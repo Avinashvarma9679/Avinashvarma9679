@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinashvarma9679
 - 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Data acience
-- 💞️ I’m looking for a job 
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking for a job in data science
 - 📫 How to reach me avinashvarma9679@gmail.com
 
 <!---
